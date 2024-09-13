@@ -1,4 +1,9 @@
-## Hi there 👋
+# NT106 - Lập trình mạng căn bản
+## NT106.P12 - Group 1
+
+### Thành viên
+- 23520858 Nguyễn Hoàng Lộc
+- 23520738 Huỳnh Minh Khoa
 
 <!--
 **nt106-group1/nt106-group1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
