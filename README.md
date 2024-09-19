@@ -1,9 +1,11 @@
 # NT106 - Lập trình mạng căn bản
 ## NT106.P12 - Group 1
 
-### Thành viên
-- 23520858 Nguyễn Hoàng Lộc
-- 23520738 Huỳnh Minh Khoa
+| Thành viên           | MSSV      |                                        |                           |
+|----------------------|-----------|----------------------------------------|---------------------------|
+| Nguyễn Hoàng Lộc     | 23520858  | [Email](mailto:23520858@gm.uit.edu.vn) |[Github](github.com/locnh8)|
+| Huỳnh Minh Khoa      | 23520738  | [Email](mailto:23520738@gm.uit.edu.vn) |[Github](github.com/locnh8)|
+
 
 <!--
 **nt106-group1/nt106-group1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
