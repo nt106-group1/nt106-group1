@@ -3,8 +3,8 @@
 
 | Thành viên           | MSSV      |                                        |                           |
 |----------------------|-----------|----------------------------------------|---------------------------|
-| Nguyễn Hoàng Lộc     | 23520858  | [Email](mailto:23520858@gm.uit.edu.vn) |[Github](github.com/locnh8)|
-| Huỳnh Minh Khoa      | 23520738  | [Email](mailto:23520738@gm.uit.edu.vn) |[Github](github.com/locnh8)|
+| Nguyễn Hoàng Lộc     | 23520858  | [Email](mailto:23520858@gm.uit.edu.vn) |[Github](https://github.com/locnh8)|
+| Huỳnh Minh Khoa      | 23520738  | [Email](mailto:23520738@gm.uit.edu.vn) |[Github](https://github.com/khoahm6)|
 
 
 <!--
