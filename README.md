@@ -1,6 +1,8 @@
 # NT106 - Lập trình mạng căn bản
 ## NT106.P12 - Group 1
 
+<img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px" height="250px" />
+
 | Thành viên           | MSSV      |                                        |                           |
 |----------------------|-----------|----------------------------------------|---------------------------|
 | Nguyễn Hoàng Lộc     | 23520858  | [Email](mailto:23520858@gm.uit.edu.vn) |[Github](https://github.com/locnh8)|
